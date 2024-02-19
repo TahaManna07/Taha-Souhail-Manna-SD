@@ -12,10 +12,12 @@
     <li>Injection des dépendances En utilisant le Framework Spring XML  :
     <br>
     <img src="captures/iodVXML/version2.PNG" >
+    <br>
     <img src="captures/iodVXML/versionBD.PNG" >
+    <br>
     <img src="captures/iodVXML/webservice.PNG" >
 
-    </li>
+   
 <li> Injection des dépendances En utilisant le Framework Spring Annotations :   
 <br>
     <img src="captures/iodVAnnotation/Capture.PNG" >
